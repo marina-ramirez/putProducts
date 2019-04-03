@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Corn",
+      "price": 1,
+      "stock": 100,
+      "image": "https://www.thegunnysack.com/wp-content/uploads/2018/06/Boiled-Corn-On-The-Cob-Recipe.jpg"
+    },
+    {
+      "name": "Stuffed Animal",
+      "price": 20,
+      "stock": 75,
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1534431261-51Intc3HIuL.jpg"
+    },
+    {
+      "name": "Lightsaber",
+      "price": 100,
+      "stock": 20,
+      "image": "https://lumiere-a.akamaihd.net/v1/images/59a9019dab393d0001b09a16-image_50ea7fad.jpeg?width=1200&region=0%2C0%2C2000%2C2000&quality=8"
+    },
+    {
+      "name": "Star Wars Sega",
+      "price": 220,
+      "stock": 5,
+      "image": "https://i.redd.it/pdni81vuzurz.jpg"
+    },
+    {
+      "name": "Bicycle",
+      "price": 150,
+      "stock": 100,
+      "image": 0
+    },
+    {
+      "name": "Popcorn Machine",
+      "price": 200,
+      "stock": 25,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Q0YBcILUL._SL1500_.jpg"
+    }
+  ]
+}
